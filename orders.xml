@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<orders>
+  <order>
+    <foodItem>Pizza</foodItem>
+    <quantity>2</quantity>
+    <customerName>John Doe</customerName>
+  </order>
+  <order>
+    <foodItem>Burger</foodItem>
+    <quantity>1</quantity>
+    <customerName>Alice Johnson</customerName>
+  </order>
+</orders>
